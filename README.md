@@ -33,6 +33,6 @@ This list contains projects of this type.
 * [Trino](https://trino.io/) - A distributed SQL engine to run queries across heterogeneous data sources, available as [connectors](https://trino.io/docs/current/connector).
 
 It's also worth mentioning that some traditional relational databases support reading heterogenous, non-relational data sources and see them as local tables:
-* [MariaDB CONNECT](https://mariadb.com/docs/server/server-usage/storage-engines/connect/introduction-to-the-connect-engine)
-* [PostgreSQL FDW](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
+* [MariaDB CONNECT](https://mariadb.com/docs/server/server-usage/storage-engines/connect/introduction-to-the-connect-engine) - The CONNECT storage engines allows to create tables based on external, heterogeneous data sources. This includes other relational databases, MongoDB, data files in many formats, and some special data sources like Windows network interfaces.
+* [PostgreSQL FDW](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) - Foreign Data Wrappers are PostgreSQL extensions that allow to build tables that read and write to any data source. Some extensions exist that allow to write FDWs in languages other than C: [Multicorn](https://multicorn.org/) for Python, [Holycorn](https://github.com/franckverrot/holycorn) for Ruby, and [Wrappers](https://github.com/supabase/wrappers) for Rust.
 
