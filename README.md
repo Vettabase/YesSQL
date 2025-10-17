@@ -23,7 +23,7 @@ This list contains projects of this type.
 
 ## YesSQL! List
 
-* [Apache Calcite](https://calcite.apache.org/) - A Java framework that processes SQL queries and uses them to read data from heterogeneous data sources. Adapters implement access to different data sources.
+* [Apache Calcite](https://calcite.apache.org/) - A Java framework that processes SQL queries and uses them to read data from heterogeneous data sources. [Adapters](https://calcite.apache.org/docs/adapter.html) implement access to different data sources.
 * [Dolt](https://www.doltlab.com/)(MySQL-compatible) and [DoltgreSQL](https://github.com/dolthub/doltgresql) (Postgres-compatible) - Databases with git-like capabilities, implemented via Go stored procedures. They are useful to create different versions of a database, keeping all versions updated. A possible use case is what-if analysis.
 * [IaSQL](https://iasql.com/) - PostgreSQL-based database that allows to see an AWS infrastructure data in a relational way. Data can be modified in SQL. When a transaction is committed, changes are applied to the infrastructure using the AWS API.
 * [ksqlDB](https://www.confluent.io/product/ksqldb/) - An SQL database that streams data from Kafka.
