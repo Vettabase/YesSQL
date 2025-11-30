@@ -34,7 +34,7 @@ This list contains projects of this type.
 
 It's also worth mentioning that some traditional relational databases support reading heterogeneous, non-relational data sources and treat them as local tables:
 * [MariaDB CONNECT](https://mariadb.com/docs/server/server-usage/storage-engines/connect/introduction-to-the-connect-engine) - The CONNECT storage engine allows creating tables based on external, heterogeneous data sources. This includes other relational databases, MongoDB, data files in many formats, and some special data sources like Windows network interfaces.
-* [PostgreSQL FDW](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) - Foreign Data Wrappers are PostgreSQL extensions that allow building tables that read and write to any data source. Several extensions exist that allow writing FDWs in languages other than C: [Multicorn](https://multicorn.org/) for Python, [Holycorn](https://github.com/franckverrot/holycorn) for Ruby, and [Wrappers](https://github.com/supabase/wrappers) for Rust.
+* [PostgreSQL FDWs](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) - Foreign Data Wrappers are PostgreSQL extensions that allow building tables that read and write to any data source. Several extensions exist that allow writing FDWs in languages other than C: [Multicorn](https://multicorn.org/) for Python, [Holycorn](https://github.com/franckverrot/holycorn) for Ruby, and [Wrappers](https://github.com/supabase/wrappers) for Rust.
 
 ## Related Projects
 
