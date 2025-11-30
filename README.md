@@ -36,3 +36,9 @@ It's also worth mentioning that some traditional relational databases support re
 * [MariaDB CONNECT](https://mariadb.com/docs/server/server-usage/storage-engines/connect/introduction-to-the-connect-engine) - The CONNECT storage engines allows to create tables based on external, heterogeneous data sources. This includes other relational databases, MongoDB, data files in many formats, and some special data sources like Windows network interfaces.
 * [PostgreSQL FDW](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) - Foreign Data Wrappers are PostgreSQL extensions that allow to build tables that read and write to any data source. Some extensions exist that allow to write FDWs in languages other than C: [Multicorn](https://multicorn.org/) for Python, [Holycorn](https://github.com/franckverrot/holycorn) for Ruby, and [Wrappers](https://github.com/supabase/wrappers) for Rust.
 
+## Related Projects
+
+Related projects from us:
+
+* [Awesome Innovative Databases](https://github.com/Vettabase/awesome-innovative-databases)
+* [Awesome MariaDB](https://github.com/Vettabase/awesome-mariadb)
