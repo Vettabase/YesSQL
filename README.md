@@ -14,8 +14,8 @@ They had no features in common. The whole NoSQL marketing was based on a negativ
 But negative marketing has a fundamental problem: it says almost nothing about what you're trying to promote.
 Technically a CSV file, a note on a paper, and a piece of wood are all NoSQL, as they lack an SQL interface.
 
-Later, the wind changed. NoSQL databases started implementing SQL. For example, Cassandra has an SQL subset that makes sense for their domain, and called it CQL.
-And they tried to convince us that they never meant "no SQL", they actually meant "Not Only SQL". They even wrote this on Wikipedia. But those of us who were there
+Later, the wind changed. NoSQL databases started implementing SQL. For example, Cassandra replaced its old protocol with an SQL subset that makes sense for its domain, and called it CQL.
+And then NoSQL advocates tried to convince us that they never meant "no SQL", they actually meant "Not Only SQL". They even wrote this on Wikipedia. But those of us who were there
 know that it's a lie.
 
 Now, the trend is exactly the opposite: using SQL in new, creative ways! New software projects are implementing SQL in completely unexpected contexts.
