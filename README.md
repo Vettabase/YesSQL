@@ -42,3 +42,9 @@ Related projects from us:
 
 * **[Awesome Innovative Databases](https://github.com/Vettabase/awesome-innovative-databases)**
 * **[Awesome MariaDB](https://github.com/Vettabase/awesome-mariadb)**
+
+## Copyright and License
+
+Copyright 2024 2025 2026 Vettabase Ltd and contributors.
+
+YesSQL is licensed under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
